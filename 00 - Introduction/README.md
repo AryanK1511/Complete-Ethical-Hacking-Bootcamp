@@ -8,3 +8,11 @@ An ethical hacker, also known as a 'white hat hacker', is employed to legally br
 - Most of the distros are free of cost.
 - Good for Development
 - You can create your own distros and there are distros available in the market for specific purposes.
+
+# 5 Stages of Penetration Testing
+
+1. Information Gathering / Reconnaissance
+2. Scanning
+3. Gaining Access / Exploitation
+4. Maintaining Access
+5. Covering Tracks
