@@ -83,3 +83,9 @@ theHarvester -d senecahackathon.com -b all
 Harvester does not always work properly so you should always scan it multiple times to see if you get any different results.
 
 You can use [hunter.io](https://hunter.io/) to get the emails of people.
+
+## Finding usernames with `sherlock`
+
+```bash
+sherlock <username>
+```
